@@ -1,2 +1,7 @@
-# POGO.COM-BADGE-ARCHIVE
-A community-maintained archive of **Pogo.com badge images. This repository stores organized badge graphics for reference, indexing, and preservation. All badge artwork belongs to **Electronic Arts and/or **Pogo.com. This project is unofficial and for archival purposes only.Winner, and are not owned by this repository.
+Pogo Badge Image Archive
+
+This repository hosts a large collection of badge images from Pogo.com for use in fan projects, archives, and community resources. The goal of this repository is to organize and preserve badge images in a structured, easy-to-access format so developers, website creators, and community members can quickly find and reference them.
+
+Images are stored and categorized to make browsing simple and efficient, helping support projects such as badge trackers, fan databases, and badge archive websites. This repository is intended strictly for archival and informational purposes for the Pogo community.
+
+Disclaimer: All badge images and related assets are the property of their respective owners, including Electronic Arts and WorldWinner, and are not owned by this repository.
