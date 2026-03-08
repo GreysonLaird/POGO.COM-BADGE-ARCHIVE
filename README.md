@@ -4,4 +4,4 @@ This repository hosts a large collection of badge images from Pogo.com for use i
 
 Images are stored and categorized to make browsing simple and efficient, helping support projects such as badge trackers, fan databases, and badge archive websites. This repository is intended strictly for archival and informational purposes for the Pogo community.
 
-Disclaimer: All badge images and related assets are the property of their respective owners, including Electronic Arts and WorldWinner, and are not owned by this repository.
+Disclaimer: All badge images and related assets are the property of their respective owners, including Electronic Arts and Pogo.com, and are not owned by this repository.
